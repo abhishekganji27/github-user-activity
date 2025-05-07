@@ -8,7 +8,8 @@
 
 ## Setup
 - Fork and clone this repository onto your local machine. 
-- (Optional Step) In your terminal/cmd prompt, create a python virtual environment using the command `python -m .venv <virtual-environment-name>`
+- (Optional Step) In your terminal/cmd prompt, create a python virtual environment using the command 
+`python -m .venv <virtual-environment-name>`
 - Navigate to the root location in this project. 
 - Install the requirements for the application by running `pip install -r requirements.txt`
 
@@ -17,5 +18,6 @@
 - `python main.py <github-username>`
 - The output will be visible in the terminal.
 
-> This project idea was taken from the backend developer roadmap of roadmap.sh
-> Project page URL on roadmap.sh: https://roadmap.sh/projects/github-user-activity
+> This project idea was taken from the backend developer roadmap of roadmap.sh.
+
+> [Project page URL on roadmap.sh](https://roadmap.sh/projects/github-user-activity)
